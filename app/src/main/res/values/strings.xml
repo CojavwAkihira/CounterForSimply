@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter</string>
+
+    <string name="playedNumInputLabel">総ゲーム：</string>
+    <string name="playedNumInputDefault">0</string>
+    <string name="popUpLabel">総ゲーム数を入力：</string>
+    <string name="okay">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
